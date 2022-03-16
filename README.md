@@ -1,1 +1,1 @@
-# python-hands-on-book-advanced
+Hands-On Python with Exercises, Projects, Assignments & Exams
