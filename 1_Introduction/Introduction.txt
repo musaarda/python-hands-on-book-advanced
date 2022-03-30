@@ -1,0 +1,17 @@
+Hands-On Python Advanced 
+with Exercises, Projects, Assignments & Final Exam
+
+by Musa Arda
+
+Please feel free to get in contact with the author. 
+To comment or ask technical questions about this book, you can send email to python.hands.on.book@gmail.com.
+
+The Folder Structure:
+1_Introduction
+2_Collections
+3_Iterators
+4_Generators
+5_Date_And_Time
+6_Decorators
+7_Context_Managers
+
