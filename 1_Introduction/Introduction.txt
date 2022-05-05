@@ -8,25 +8,23 @@ To comment or ask technical questions about this book,
 you can send email to python.hands.on.book@gmail.com.
 
 The Folder Structure:
-1_Introduction
-2_IDE_PyCharm_Basics
-3_Collections
-4_Iterators
-5_Generators
-6_Date_And_Time
-7_Decorators
-8_Context_Managers
-9_Functional_Programming_in_Python
+1. Introduction
+2. IDE - PyCharm Basics
+3. Collections
+4. Iterators
+5. Generators
+6. Date and Time
+7. Decorators
+8. Context Managers
+9. Functional Programming in Python
 10. Project 1 - Sending Emails with Python
 11. Assignment 1 - Sending Emails with Python
 12. Regular Expressions
 13. Database Operations
 14. Concurrency in Python
-15. Project 2
-16. Assignment 2
-17. API Development
-18. Packaging Python Applications
-19. Project 3
-20. Assignment 3
-21. Final Exam
-22. Conclusion
+15. Project 2 - Web Scraping with Python
+16. Assignment 2 -  Web Scraping with Python
+17. Project 3 - API Development with Flask
+18. Assignment 3 - API Development with Flask
+19. Final Exam
+20. Conclusion
