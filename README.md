@@ -1,4 +1,4 @@
-# Hands-On Python with Exercises, Projects, Assignments & Exams
+# Hands-On Python with 52 Exercises, 3 Projects, 3 Assignments & Exams
 # BOOK 3: ADVANCED
 
 This is a collection of resources for Hands-On Python Book - Advanced level.
