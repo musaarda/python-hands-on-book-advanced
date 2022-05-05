@@ -1,5 +1,5 @@
 Hands-On Python Advanced 
-with Exercises, Projects, Assignments & Final Exam
+with 52 Exercises, 3 Projects, 3 Assignments & Final Exam
 
 by Musa Arda
 
