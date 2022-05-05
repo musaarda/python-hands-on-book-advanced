@@ -1,0 +1,24 @@
+20. Conclusion
+ 
+This is the last chapter in this book. We have covered almost all of the advanced level concepts in Python and we covered them in great detail. We started with setting our development environment, the PyCharm IDE. 
+Then we learned Collections, Iterators, Generators, Date and Time, Decorators, Context Managers and Functional Programming in Python.
+ After these topics, we had our first project which was Sending Emails with Python. We learned how to use smtplib module to send messages on both a test server and an actual Gmail account.
+Then we learned, Regular Expressions, Database Operations and Concurrency in Python.
+We had our second project after these topics, which was about Web Scraping. You learned how to scrap data out of web pages using Python and Scrapy.
+Finally, we built our third project, which was a Movie Review web application using Python and Flask. We built the project step by step from scratch and you learned all of the fundamental concepts of building API’s using Flask.
+You also had assignments after each project. And finally, you got the Final Exam to test yourself.
+ 
+The approach we followed in this book is quite unique and intense. It aims to teach you Python in a solid and unforgettable way. That’s why we had more than 52 coding exercises, quizzes and assignments. The idea is to make sure we used all the possible ways to help you learn Python programming. And I hope, I achieved this.
+ 
+This book is a part of the Hands-On Python Series. There are three books in this series: Beginner, Intermediate and Advanced. This book is the third one, the Advanced level. By completing this series, I believe you can feel comfortable with almost all of the fundamentals of Python. The coding exercises, projects, assignments and exam questions will give you a great resource for your programming life and job interviews on Python.
+ 
+ 
+ 
+Dear reader!
+ 
+I want to thank you with all my heart, for your interest in my book, your patience and your desire to learn Python. You did a great job finishing this intense book. And I am very happy to be a part of this. I hope we see each other again in another programming book. Till then, I hope, you have wonderful life and reach your dreams. 
+ 
+ 
+Good bye.
+ 
+Musa Arda
